@@ -1,0 +1,22 @@
+dc:title:
+  "RDF for Intrepid Unix Hackers: Transmuting N-Triples"
+dc:creator:
+  Arto Bendiken
+dc:date:
+  2010-04-05T09:00:00Z
+dc:created:
+  2010-04-05T09:00:00Z
+dc:modified:
+  2010-04-05T09:00:00Z
+dc:subject:
+  - RDF
+  - Unix
+  - Raptor
+  - rapper
+  - N-Triples
+  - Turtle
+  - RDF/XML
+  - RDF/JSON
+  - how-to
+  - tutorial
+  - serialization

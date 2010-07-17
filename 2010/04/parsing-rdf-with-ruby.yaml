@@ -1,0 +1,21 @@
+dc:title:
+  "Parsing and Serializing RDF Data with Ruby"
+dc:creator:
+  Arto Bendiken
+dc:date:
+  2010-04-21T16:00:00Z
+dc:created:
+  2010-04-21T16:00:00Z
+dc:modified:
+  2010-04-21T16:00:00Z
+dc:subject:
+  - RDF
+  - Ruby
+  - parsing
+  - serializing
+  - RDF.rb
+  - RDF::Format
+  - RDF::Reader
+  - RDF::Writer
+  - how-to
+  - tutorial

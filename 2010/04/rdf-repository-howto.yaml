@@ -1,0 +1,21 @@
+dc:title:
+  "How to Build an SQL Storage Adapter for RDF Data with Ruby"
+dc:creator:
+  Ben Lavender
+dc:date:
+  2010-04-06T09:00:00Z
+dc:created:
+  2010-04-06T09:00:00Z
+dc:modified:
+  2010-04-06T09:00:00Z
+dc:subject:
+  - RDF
+  - Ruby
+  - RDF.rb
+  - RDF::Repository
+  - DataObjects
+  - SQL
+  - PostgreSQL
+  - SQLite
+  - how-to
+  - tutorial
