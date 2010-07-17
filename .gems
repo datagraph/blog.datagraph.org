@@ -1,0 +1,2 @@
+sinatra    --version '>= 1.0'
+linkeddata --version '~> 0.2.2'
